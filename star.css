@@ -1,4 +1,5 @@
-
+/*I want to add an animation where the stars png appears in different angles (initially it's 0°)
+, slowly eases in to 90°,180°270° and so on so it looks like different set of stars every time*/
 .stars{
   position:absolute;
 margin: 0px;
